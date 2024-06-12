@@ -49,7 +49,7 @@ module.exports = {
       confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
       successGlobal: "Changed prefix of system bot to: %1",
       successThisThread: "Changed prefix in your group chat to: %1",
-      myPrefix:"✎𝙰𝙴𝚂𝚃𝙷𝙴𝚁©/𝙋𝙍𝙀𝙁𝙄𝙓✎:\n┏━━━•━━━•━━━┓\n  🌐--(　・ω・)⊃--[%2]\n┗━━━•━━━•━━━┛\n[🆔]𝙇𝙄𝙉𝙆 𝘼𝘿𝙈𝙄𝙉:\nhttps://www.facebook.com/profile.php?id=61555882584314"
+      myPrefix:"✎𝙰𝙴𝚂𝚃𝙷𝙴𝚁©/𝙋𝙍𝙀𝙁𝙄𝙓✎:\n┏━━━•━━━•━━━┓\n  💖--(　・ω・)⊃--[%2]\n┗━━━•━━━•━━━┛\n[🆔]𝙇𝙄𝙉𝙆 𝘼𝘿𝙈𝙄𝙉:\nhttps://www.facebook.com/profile.php?id=100087186685708"
     }
   },
 
